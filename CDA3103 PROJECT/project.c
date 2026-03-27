@@ -1,4 +1,3 @@
-//Project was completed by Chandler Douglas, David Portz, and Jesse Alsing
 //Completion date: 4 - 20 - 2017
 //Commented accordingly by each individual member of the group.
 #include "spimcore.h"
